@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🌵JAMES_KANG&fontSize=45&section=header)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # ✨Self-Introduction✨
 Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from JEJU [더큰내일센터; 탐나는 인재5기]<br>
 * My goal is a backend developer
@@ -16,7 +18,6 @@ Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from J
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-Hyeak-KANG&show_icons=true&theme=tokyonight)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-Hyeak-KANG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 * * *
 # 🤝Contact
@@ -25,10 +26,5 @@ Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from J
 💻this my blog : [tistory.내 꿈을 JAVA](https://kang-james.tistory.com/) 
 <br>
 <br>Have a nice day! :) 
-
-
-
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

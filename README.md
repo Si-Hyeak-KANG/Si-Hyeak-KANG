@@ -5,7 +5,7 @@
 Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from JEJU [더큰내일센터; 탐나는 인재5기]<br>
 * My goal is a backend developer
 * Now, I'm working on a project focusing on the web Page
-* I wanna always high value, so i'm studying. diligently 
+* I wanna always high value, so i'm studying. diligently.🙌
 * I planned to do cooperative work like in practice with [탐나는 인재]
 
 * * *

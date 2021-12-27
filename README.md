@@ -17,9 +17,9 @@ Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from J
 
 * * *
 # 🤝Contact
-✒&nbsp;if you want to contact me, please leave me a message! <br>
+✒&nbsp;If you want to contact me, please leave me a message! <br>
 📫 How to reach me: &nbsp;zlcls456@gmail.com<br>
-💻this my blog : [tistory.내 꿈을 JAVA](https://kang-james.tistory.com/) 
+💻 This my blog : [tistory.내 꿈을 JAVA](https://kang-james.tistory.com/) 
 <br>
 <br>Have a nice day! :) 
 

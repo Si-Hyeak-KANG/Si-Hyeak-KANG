@@ -4,6 +4,8 @@
 
 ## [James's_Portfolio 방문하기](https://dev-james.netlify.app/)
 
+<img src="https://user-images.githubusercontent.com/79829085/153842816-fbebcce7-c189-488c-b2e3-862673c348a7.png" alt="" width="340px" align="left"/>
+
 # ✨Self-Introduction✨
 Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from JEJU [더큰내일센터; 탐나는 인재5기]<br>
 * My goal is a backend developer
@@ -11,7 +13,10 @@ Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from J
 * I wanna always high value, so i'm studying. diligently
 * I planned to do cooperative work like in practice with [탐나는 인재]
 
+<br>
+
 * * *
+
 # 🛠Technical Skils🛠
 |Languages |Frameworks |Design |Editors|Version Control |ETC|
 |:---:|:---:|:---:|:---:|:---:|:---:|

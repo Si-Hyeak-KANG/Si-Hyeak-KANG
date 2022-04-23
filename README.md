@@ -4,7 +4,7 @@
 
 ## [James's_Portfolio 방문하기](https://dev-james.netlify.app/)
 
-<img src="https://user-images.githubusercontent.com/79829085/153842816-fbebcce7-c189-488c-b2e3-862673c348a7.png" alt="" width="340px" align="left"/>
+<img src="https://user-images.githubusercontent.com/79829085/164904655-0c3bf248-456f-4bbd-9b1e-68af503dc80a.png" alt="" width="85%" />
 
 # ✨Self-Introduction✨
 Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from JEJU [더큰내일센터; 탐나는 인재5기]<br>

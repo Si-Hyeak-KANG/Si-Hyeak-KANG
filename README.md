@@ -2,7 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## [James's_Portfolio 방문하기](https://dev-james.netlify.app/)
+# [James's_포트폴리오 방문하기](https://dev-james.netlify.app/)
+
 
 <img src="https://user-images.githubusercontent.com/79829085/164904655-0c3bf248-456f-4bbd-9b1e-68af503dc80a.png" alt="" width="85%" />
 

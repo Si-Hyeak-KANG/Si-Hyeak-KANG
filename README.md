@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🌵JAMES_KANG&fontSize=45&section=header)
 
-# Portfolio
-* [포트폴리오(최신)](https://sihyeak-portfolio.netlify.app/)
-* [웹 포트폴리오(업데이트 전)](https://dev-james.netlify.app/)
-
 <img src="https://user-images.githubusercontent.com/79829085/164904655-0c3bf248-456f-4bbd-9b1e-68af503dc80a.png" alt="" width="85%" />
 
 # ✨ Self-Introduction

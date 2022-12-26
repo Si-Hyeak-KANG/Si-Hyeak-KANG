@@ -5,11 +5,10 @@
 <img src="https://user-images.githubusercontent.com/79829085/164904655-0c3bf248-456f-4bbd-9b1e-68af503dc80a.png" alt="" width="85%" />
 
 # ✨ Self-Introduction
-Hi there!🙌 &nbsp;<strong>I'm James</strong>,&nbsp;studying programming from JEJU [더큰내일센터; 탐나는 인재5기]<br>
+Hi there!🙌 &nbsp;<strong>I'm James</strong><br>
 * My goal is a backend developer
 * Now, I'm working on a project focusing on the web Page
 * I wanna always high value, so i'm studying. diligently
-* I planned to do cooperative work like in practice with [탐나는 인재]
 
 <br>
 

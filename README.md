@@ -1,8 +1,8 @@
 # KANG SI HYEAK 
 
-[![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)
 ![email](https://img.shields.io/badge/📧_zlcls456@gmail.com-%23007396.svg?style=for-the-btn&logo=java&logoColor=white)
+[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)
+[![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✨ Who Am I
     [문제 해결 과정을 즐기는 백엔드 개발자 강시혁]입니다.

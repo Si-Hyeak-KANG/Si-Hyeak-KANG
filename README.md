@@ -1,4 +1,4 @@
-# KANG SI HYEAK 
+# KANG SI HYUK 
 
 ![email](https://img.shields.io/badge/📧_zlcls456@gmail.com-%23007396.svg?style=for-the-btn&logo=java&logoColor=white)
 [<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)

@@ -1,36 +1,33 @@
-# KANG SI HYUK 
-
-![email](https://img.shields.io/badge/📧_zlcls456@gmail.com-%23007396.svg?style=for-the-btn&logo=java&logoColor=white)
-[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)
-[![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSi-Hyeak-KANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## ✨ Who Am I
-    
-    항상 작은 부분이라도 이점이 있다면, 성능을 개선하기 위해 고민합니다.
-
-    저는 높은 코드 이해력과 체계적이고, 섬세한 정리 능력을 강점으로 갖고 있습니다.
-    따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
-   
-    현재는 더욱 다양한 문제를 폭넓게 해결할 수 있는
-    개발자가 되기 위해 끊임없이 학습하고 있습니다.
+# KANG SI HYUK ![email](https://img.shields.io/badge/📧_zlcls456@gmail.com-%23007396.svg?style=for-the-btn&logo=java&logoColor=white) [<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456) 
 
 
-## 💻 Main Skills
+### ✨ Who Am I
+    1) 목표를 위해 몰입하고, 어느새 완성된 결과물에서 얻는 성취감을 중요하게 생각
+    2) 낯선 개발환경과 복잡한 코드를 이해하고, 주도적으로 업무 수행
+    3) 도서 [개발자가 되기 위해 꼭 알아야 하는 IT 용어]에서 <HTTP, HASH, MVC, SPA, CDN> 집필
+    4) "소프트역량도 갖춘 개발자" (5번의 개발 협업 프로젝트, 제주더큰내일센터(대외), 축구팀 회장, 독서모임 리더, 맥도날드 팀리더 경험)
+    5) 2021년부터 3년간 기술 블로그 기록
+
+
+### 👇 Contents
+
+- [WEB RESUME](https://si-hyeak-kang.github.io/resume/)
+- [BLOG](https://kang-james.tistory.com/)
+- (22년 5월 출판) [개발자가 되기 위해 꼭 알아야 하는 IT 용어](https://m.yes24.com/Goods/Detail/109711067)
+
+  
+### 💻 Main Skills
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-green?style=for-the-badge&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/aws_EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 <img src="https://img.shields.io/badge/aws_RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🤩 Strength
-
-* 다양한 팀 활동, 리더 경험으로 __'협업 최고 기여자'__
-* 지속적인 __기록, 정리, 문서화__
-* __목표 달성__ 을 위한 몰입
-* __고객 중심__ 프로그래밍 설계
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

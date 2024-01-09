@@ -14,7 +14,7 @@
 
 - [WEB RESUME](https://si-hyeak-kang.github.io/resume/)
 - [BLOG](https://kang-james.tistory.com/)
-- (22년 5월 출판) [개발자가 되기 위해 꼭 알아야 하는 IT 용어](https://m.yes24.com/Goods/Detail/109711067)
+- [개발자가 되기 위해 꼭 알아야 하는 IT 용어](https://m.yes24.com/Goods/Detail/109711067) (22년 5월 출판) 
 
   
 ### 💻 Main Skills

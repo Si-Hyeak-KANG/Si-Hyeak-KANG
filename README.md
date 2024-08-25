@@ -11,7 +11,6 @@
 
 
 ### 👇 Contents
-- [RESUME](https://drive.google.com/file/d/1JguriXP1w_Qh2eQ34fGn099-chhyvXfs/view?usp=sharing)
 - [BLOG](https://kang-james.tistory.com/)
 - [개발자가 되기 위해 꼭 알아야 하는 IT 용어](https://m.yes24.com/Goods/Detail/109711067) (22년 5월 출판) 
 
